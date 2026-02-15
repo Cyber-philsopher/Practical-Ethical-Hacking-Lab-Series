@@ -6,11 +6,9 @@ This repository documents my hands-on ethical hacking lab series, focused on pra
 
 Each lab includes technical walkthroughs, proof-of-concepts, command breakdowns, and security insights.
 
-The series is published on Medium (via InfoSec Write-ups) and distributed through my LinkedIn cybersecurity newsletter.
+The series is published on Medium <a href="https://medium.com/@abdul-mumin/list/ethical-hacking-home-lab-series-c268c0b694ec">(via InfoSec Write-ups)</a> and distributed through my <a href="https://www.linkedin.com/newsletters/7257285066370813952/?displayConfirmation=true">LinkedIn ethical hacking lab newsletter</a>.
 
 ![ethical hacking lab banner (default)](https://github.com/user-attachments/assets/a32dff4b-05b8-4b5f-a38d-350a2c66c5a4)
-
-
 
 
 ## Each lab is documented with:
@@ -35,7 +33,7 @@ All articles are published on Medium and curated under the InfoSec Write-ups cyb
 
 - Share educational cybersecurity content publicly
 
-## 🛠 Tools & Technologies Used
+## Tools Used
 
 - <img src="https://img.shields.io/badge/-Metasploit%20Framework-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
 
