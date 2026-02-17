@@ -6,7 +6,7 @@ This repository documents my hands-on ethical hacking lab series, focused on pra
 
 Each lab includes technical walkthroughs, proof-of-concepts, command breakdowns, and security insights.
 
-The series is published on Medium <a href="https://medium.com/@abdul-mumin/list/ethical-hacking-home-lab-series-c268c0b694ec">(via InfoSec Write-ups)</a> and distributed through my <a href="https://www.linkedin.com/newsletters/7257285066370813952/?displayConfirmation=true">LinkedIn ethical hacking lab newsletter</a>.
+The series is published on Medium <a href="https://infosecwriteups.com/">(via InfoSec Write-ups)</a> and distributed through my <a href="https://www.linkedin.com/newsletters/7257285066370813952/?displayConfirmation=true">LinkedIn ethical hacking lab newsletter</a>.
 
 ![ethical hacking lab banner (default)](https://github.com/user-attachments/assets/a32dff4b-05b8-4b5f-a38d-350a2c66c5a4)
 
@@ -48,10 +48,16 @@ All articles are published on Medium and curated under the InfoSec Write-ups cyb
 
 ## Skills Demonstrated
 - Offensive Reconnaissance & Attack Surface Mapping
+  
 - Vulnerability Assessment & Exploit Execution
+  
 - Privilege Escalation (Windows & Linux)
+  
 - Active Directory & Lateral Movement
+  
 - Post-Exploitation & Evasion Techniques
+
+- Technical Writing
 
 ## Lab Series Index
 <a href="https://medium.com/@abdul-mumin/list/ethical-hacking-home-lab-series-c268c0b694ec" target="_blank">
