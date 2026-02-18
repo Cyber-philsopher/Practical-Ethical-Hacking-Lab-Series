@@ -64,11 +64,23 @@ All articles are published on Medium and curated under the InfoSec Write-ups cyb
   <img src="https://img.shields.io/badge/Click%20Here%20for%20All%20Labs%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-### Episode 1 – ManageEngine Exploitation
-🔗 [Read on Medium](link)
+| Episode | Title | Article |
+|----------|---------------------------------------------|---------|
+| 1 | ManageEngine Exploitation | 🔗 [Read on Medium](link) |
+| 2 | Windows Privilege Escalation | 🔗 [Read on Medium](link) |
+| 3 | Linux Kernel Exploitation (Dirty COW) | 🔗 [Read on Medium](link) |
 
-### Episode 2 – Privilege Escalation on Windows
-🔗 [Read on Medium](link)
 
-### Episode 3 – Linux Kernel Exploitation (Dirty COW)
-🔗 [Read on Medium](link)
+
+## Publication & Reach
+
+- **Published under:** <a href="https://infosecwriteups.com/">InfoSec Write-ups</a> (Medium Cybersecurity Publication)
+
+- **Medium audience:** <a href="https://medium.com/@abdul-mumin">168+ followers</a>
+  
+- Distributed via LinkedIn Newsletter (500+ subscribers)
+
+
+### ⚠️ All activities documented were performed in controlled lab environments for educational and ethical purposes only.
+
+  
