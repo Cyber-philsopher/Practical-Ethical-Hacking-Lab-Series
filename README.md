@@ -57,18 +57,22 @@ All articles are published on Medium and curated under the InfoSec Write-ups cyb
   
 - Post-Exploitation & Evasion Techniques
 
-- Technical Writing
+- Technical Guide Writing
 
 ## Lab Series Index
 <a href="https://medium.com/@abdul-mumin/list/ethical-hacking-home-lab-series-c268c0b694ec" target="_blank">
   <img src="https://img.shields.io/badge/Click%20Here%20for%20All%20Labs%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
+
 | Episode | Title | Article |
 |----------|---------------------------------------------|---------|
-| 1 | ManageEngine Exploitation | 🔗 [Read on Medium](link) |
-| 2 | Windows Privilege Escalation | 🔗 [Read on Medium](link) |
-| 3 | Linux Kernel Exploitation (Dirty COW) | 🔗 [Read on Medium](link) |
+| 6 | **Part 6: System Exploitation** | 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-6-system-exploitation-55e50ffb2a3b) |
+| 5 | **Part 5: Conducting Reconnaissance** | 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-5-conducting-reconnaissance-05c3a13af64c) |
+| 4 | **Part 4: Attack Machine Setup**| 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-4-attack-machine-setup-74dcc866c6ef )|
+| 3 | **Part 3: Victim VMs Setup** | 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-3-victim-vms-setup-58983ada38e8) |
+| 2 | **Part 2: Lab Topology** | 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3) |
+| 1 | **Part 1: Intro** | 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-1-intro-6294313d349a) |
 
 
 
