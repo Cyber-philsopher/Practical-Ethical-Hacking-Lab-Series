@@ -67,6 +67,7 @@ All articles are published on Medium and curated under the InfoSec Write-ups cyb
 
 | Episode | Title | Article |
 |----------|---------------------------------------------|---------|
+| 7 | **Part 7: Password Cracking** | 🔗 [Read on Medium](https://medium.com/@abdul-mumin/building-a-virtual-ethical-hacking-home-lab-part-7-password-cracking-and-vulnerability-0d067592480d) |
 | 6 | **Part 6: System Exploitation** | 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-6-system-exploitation-55e50ffb2a3b) |
 | 5 | **Part 5: Conducting Reconnaissance** | 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-5-conducting-reconnaissance-05c3a13af64c) |
 | 4 | **Part 4: Attack Machine Setup**| 🔗 [Read on Medium](https://medium.com/bugbountywriteup/building-a-virtual-ethical-hacking-home-lab-part-4-attack-machine-setup-74dcc866c6ef )|
