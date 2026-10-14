@@ -81,7 +81,7 @@ All articles are published on Medium and curated under the InfoSec Write-ups cyb
 
 - **Published under:** <a href="https://infosecwriteups.com/">InfoSec Write-ups</a> (Medium Cybersecurity Publication)
 
-- **Medium audience:** <a href="https://medium.com/@abdul-mumin">168+ followers</a>
+- **Medium audience:** <a href="https://medium.com/@abdul-mumin">180+ followers</a>
   
 - Distributed via LinkedIn Newsletter (500+ subscribers)
 
